@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyEditor</string>
+    <string name="input_hint">Input your text here</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref">Save in Preferences</string>
+    <string name="database">Save in DataBase</string>
+    <string name="file">Save in File</string>
+</resources>
